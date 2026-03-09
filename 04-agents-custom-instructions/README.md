@@ -675,6 +675,10 @@ You are a technical writer who creates clear Python documentation.
 ```
 
 **Testing your agents:**
+
+> 💡 **Note:** You should already have `samples/book-app-project/data.json` in your local copy of this repo. If it is missing, download the original version from the source repo:
+> [data.json](https://github.com/github/copilot-cli-for-beginners/blob/main/samples/book-app-project/data.json)
+
 ```bash
 copilot
 > /agent
